@@ -1,5 +1,5 @@
 # PoapArtParticipants
-A tool to identify all drawing participants of a custom area on app.poap.art
+An unofficial tool to identify all drawing participants of a custom area on app.poap.art
 
 __________
 Sometimes people want to find out who helped drawing their images (for example to reward them with a poap).
